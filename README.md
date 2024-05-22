@@ -24,9 +24,22 @@
 
 * **2022-ICLR** - Noisy Feature Mixup. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)
 
+* **2023-Arxiv** - Freeze then Train: Towards Provable Representation Learning under Spurious Correlations and Feature Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2210.11075)
+
+* **2023-Arxiv** - LCEN: A Novel Feature Selection Algorithm for Nonlinear, Interpretable Machine Learning Models.  [[Paper]](https://ar5iv.labs.arxiv.org/html/2402.17120)
+
 * **2023-IEEE** - Feature Noise Boosts DNN Generalization under Label Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)
 
 * **2024-IJCNN** - Feature-Aware Noise Contrastive Learning For Unsupervised Red Panda Re-Identification. [[Paper]](https://ar5iv.labs.arxiv.org/html/2405.00468)
+
+
+
+
+
+
+
+
+
 
 
 ## Survey
