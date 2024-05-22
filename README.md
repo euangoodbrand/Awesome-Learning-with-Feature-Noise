@@ -30,21 +30,16 @@
 
 * **2023-IEEE** - Feature Noise Boosts DNN Generalization under Label Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)
 
+* **2023-JMLR** - The Power of Contrast for Feature Learning: A Theoretical Analysis.[[Paper]](https://jmlr.org/papers/v330/ji23a.html)
+
 * **2024-IJCNN** - Feature-Aware Noise Contrastive Learning For Unsupervised Red Panda Re-Identification. [[Paper]](https://ar5iv.labs.arxiv.org/html/2405.00468)
 
 
 
 
 
-
-
-
-
-
-
-
-
 ## Survey
+
 
 ## Github
 
