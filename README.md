@@ -48,3 +48,5 @@
 ## Others
 
 ## Acknowledgements
+
+Some papers pertaining to feature noise and data noise in general have been sourced from a list on label noise: [Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
