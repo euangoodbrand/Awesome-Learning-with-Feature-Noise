@@ -22,6 +22,8 @@
 
 * **2018-Arxiv** - An Analysis of Active Learning With Uniform Feature Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)
 
+* **2019-Soft Computing** - A taxonomy on impact of label noise and feature noise using machine learning techniques. [[Paper]](https://link.springer.com/article/10.1007/s00500-019-03968-7)
+
 * **2021-ICLR** - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://ar5iv.labs.arxiv.org/html/2103.07756)
 
 * **2022-ICLR** - Noisy Feature Mixup. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609) [Code](https://github.com/erichson/NFM)
@@ -41,7 +43,7 @@
 
 
 ## Survey
-
+* **2019-Soft Computing** - A taxonomy on impact of label noise and feature noise using machine learning techniques. [[Paper]](https://link.springer.com/article/10.1007/s00500-019-03968-7)
 
 ## Github
 
