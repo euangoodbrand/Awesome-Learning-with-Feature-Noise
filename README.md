@@ -18,6 +18,8 @@
 
 ## Papers & Code
 
+* **2016-NC** - Noise detection in the Meta-Learning Level. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231215005482) [[Additional information]](https://github.com/lpfgarcia/m2n)
+
 * **2018-Arxiv** - An Analysis of Active Learning With Uniform Feature Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)
 
 * **2021-ICLR** - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://ar5iv.labs.arxiv.org/html/2103.07756)
