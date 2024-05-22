@@ -24,7 +24,7 @@
 
 * **2021-ICLR** - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://ar5iv.labs.arxiv.org/html/2103.07756)
 
-* **2022-ICLR** - Noisy Feature Mixup. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609)[Code](https://github.com/erichson/NFM)
+* **2022-ICLR** - Noisy Feature Mixup. [[Paper]](https://ar5iv.labs.arxiv.org/html/2308.01609) [Code](https://github.com/erichson/NFM)
 
 * **2023-Arxiv** - Freeze then Train: Towards Provable Representation Learning under Spurious Correlations and Feature Noise. [[Paper]](https://ar5iv.labs.arxiv.org/html/2210.11075)
 
