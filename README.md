@@ -1,3 +1,5 @@
+---
+
 <div align="center">
     <h1>Awesome Learning with Feature Noise</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
@@ -9,6 +11,7 @@ A curated list of resources for Learning with Feature Noise
 
 - [Learning-with-Feature-Noise](#learning-with-feature-noise)
   - [Papers & Code](#papers--code)
+  - [Feature Noise Adjacent Papers](#feature-noise-adjacent-papers)
   - [Survey](#survey)
   - [Related Works and Lists](#related-works-and-lists)
   - [Note](#note)
@@ -37,6 +40,22 @@ A curated list of resources for Learning with Feature Noise
 * **2023-JMLR** - The Power of Contrast for Feature Learning: A Theoretical Analysis. [[Paper]](https://jmlr.org/papers/v24/23-330.html)
 
 * **2024-IJCNN** - Feature-Aware Noise Contrastive Learning For Unsupervised Red Panda Re-Identification. [[Paper]](https://ar5iv.labs.arxiv.org/html/2405.00468)
+
+## Feature Noise Adjacent Papers
+
+* **2017-NIPS** - Mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
+
+* **2019-ICML** - Manifold Mixup: Better Representations by Interpolating Hidden States. [[Paper]](https://arxiv.org/abs/1806.05236) [[Code]](https://github.com/vikasverma1077/manifold_mixup)
+
+* **2019-ICCV** - CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. [[Paper]](https://arxiv.org/abs/1905.04899) [[Code]](https://github.com/clovaai/CutMix-PyTorch)
+
+* **2020-ICML** - Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. [[Paper]](https://arxiv.org/abs/2009.06962) [[Code]](https://github.com/snu-mllab/PuzzleMix)
+
+* **2020-NeurIPS** - Boundary Thickness and Robustness in Learning Models. [[Paper]](https://arxiv.org/abs/2007.05869) [[Code]](https://github.com/yangarbiter/noisy_mixup)
+
+* **2016-CVPR** - Rethinking the Inception Architecture for Computer Vision. [[Paper]](https://arxiv.org/abs/1512.00567)
+
+* **2017-Arxiv** - Towards Deep Learning Models Resistant to Adversarial Attacks. [[Paper]](https://arxiv.org/abs/1706.06083) [[Code]](https://github.com/MadryLab/cifar10_challenge)
 
 ## Survey
 
@@ -70,3 +89,5 @@ Feel free to contribute to this list by adding relevant papers and resources. If
 This list includes contributions from various researchers and practitioners in the field of machine learning. Special thanks to the [Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) repository for providing valuable resources and inspiration. Contributions from the broader community are always welcome to keep this list up-to-date and comprehensive. If you have suggestions or new papers to add, please send a pull request to this repository.
 
 By collaborating and sharing knowledge, we can advance our understanding and develop more robust solutions to the challenges posed by feature and label noise in machine learning.
+
+---
